@@ -1,13 +1,18 @@
 [{
     "nom": "Kodama",
     "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/kodama.jpg",
-    "web":"",
-    "telefon": "",
-    "adreca": ""
+    "web":"https://www.espaikodama.com/",
+    "telefon": "+34 934 637 756",
+    "adreca": "Carrer del Lliri, 32, 08402 Granollers, Barcelona",
+    "tipoCocina": "Japonesa"
 },{
-    "nom": "",
-    "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/kodama.jpg",
+    "nom": "Vinyam",
+    "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/vinyam.jpg",
     "web":"",
     "telefon": "",
-    "adreca": ""
+    "adreca": "",
+    "tipoCocina": "Catalana"
+},
+{
+    
 }]
