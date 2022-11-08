@@ -22,5 +22,13 @@
         "telefon": "+34 931 71 67 57",
         "adreca": "Plaça Catalunya, 1, 08401 Granollers, Barcelona",
         "tipoCuina": "Mediterránea"
+    },
+    {
+        "nom": "",
+        "srcImg": "",
+        "web": "",
+        "telefon": "",
+        "adreca": "",
+        "tipoCuina": ""
     }
 ]
