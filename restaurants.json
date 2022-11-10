@@ -24,11 +24,11 @@
         "tipoCuina": "Mediterránea"
     },
     {
-        "nom": "",
-        "srcImg": "",
-        "web": "",
-        "telefon": "",
-        "adreca": "",
-        "tipoCuina": ""
+        "nom": "Casa Rico Restaurant en Granollers",
+        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/casarico.jpg",
+        "web": "https://casaricorestaurant.com/",
+        "telefon": "+34654215648",
+        "adreca": "Carrer de Corró, 36, 08401 Granollers, Barcelona",
+        "tipoCuina": "Mediterránea"
     }
 ]
