@@ -1,34 +1,36 @@
-[
-    {
-        "nom": "Kodama",
-        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/kodama.jpg",
-        "web": "https://www.espaikodama.com/",
-        "telefon": "+34 934 637 756",
-        "adreca": "Carrer del Lliri, 32, 08402 Granollers, Barcelona",
-        "tipoCuina": "Japonesa"
-    },
-    {
-        "nom": "Vinyam",
-        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/vinyam.jpg",
-        "web": "https://vinyam.es/",
-        "telefon": "+34930232899",
-        "adreca": "Carrer Princesa, 3, 08401 Granollers, Barcelona",
-        "tipoCuina": "Catalana"
-    },
-    {
-        "nom": "Vinum&Vitis Gastrobar",
-        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/vinumandvitisgastrobar.jpg",
-        "web": "https://www.tripadvisor.es/Restaurant_Review-g670666-d6662837-Reviews-Vinum_Vitis_Gastrobar-Granollers_Catalonia.html",
-        "telefon": "+34 931 71 67 57",
-        "adreca": "Plaça Catalunya, 1, 08401 Granollers, Barcelona",
-        "tipoCuina": "Mediterranea"
-    },
-    {
-        "nom": "Casa Rico Restaurant en Granollers",
-        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/casarico.jpg",
-        "web": "https://casaricorestaurant.com/",
-        "telefon": "+34654215648",
-        "adreca": "Carrer de Corró, 36, 08401 Granollers, Barcelona",
-        "tipoCuina": "Mediterranea"
-    }
-]
+{
+    "Restaurants": [
+        {
+            "nom": "Kodama",
+            "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/kodama.jpg",
+            "web": "https://www.espaikodama.com/",
+            "telefon": "+34 934 637 756",
+            "adreca": "Carrer del Lliri, 32, 08402 Granollers, Barcelona",
+            "tipoCuina": "Japonesa"
+        },
+        {
+            "nom": "Vinyam",
+            "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/vinyam.jpg",
+            "web": "https://vinyam.es/",
+            "telefon": "+34930232899",
+            "adreca": "Carrer Princesa, 3, 08401 Granollers, Barcelona",
+            "tipoCuina": "Catalana"
+        },
+        {
+            "nom": "Vinum&Vitis Gastrobar",
+            "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/vinumandvitisgastrobar.jpg",
+            "web": "https://www.tripadvisor.es/Restaurant_Review-g670666-d6662837-Reviews-Vinum_Vitis_Gastrobar-Granollers_Catalonia.html",
+            "telefon": "+34 931 71 67 57",
+            "adreca": "Plaça Catalunya, 1, 08401 Granollers, Barcelona",
+            "tipoCuina": "Mediterranea"
+        },
+        {
+            "nom": "Casa Rico Restaurant en Granollers",
+            "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/casarico.jpg",
+            "web": "https://casaricorestaurant.com/",
+            "telefon": "+34654215648",
+            "adreca": "Carrer de Corró, 36, 08401 Granollers, Barcelona",
+            "tipoCuina": "Mediterranea"
+        }
+    ]
+}
