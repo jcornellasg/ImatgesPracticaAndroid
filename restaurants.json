@@ -30,5 +30,45 @@
         "telefon": "+34 931 71 67 57",
         "adreca": "Plaça Catalunya, 1, 08401 Granollers, Barcelona",
         "tipoCuina": "Mediterranea"
+    },
+    {
+        "nom": "Fonda Europa",
+        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/fondaeuropa.jpg",
+        "web": "https://hotelfondaeuropa.com/",
+        "telefon": "+34 938 70 03 12",
+        "adreca": "Calle Anselm Clave 1, 08402, Granollers España",
+        "tipoCuina": "Catalana"
+    },
+    {
+        "nom": "Mint Restaurant",
+        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/mintrestaurant.jpg",
+        "web": "https://mintgranollers.com/",
+        "telefon": "+34 936 25 41 98",
+        "adreca": "Carrer de Sant Josep 10, 08402, Granollers España",
+        "tipoCuina": "Mediterranea"
+    },
+    {
+        "nom": "Posta 36",
+        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/posta36.jpg",
+        "web": "https://posta36granollers.com/",
+        "telefon": "+34 938 70 31 08",
+        "adreca": "Calle Joan Prim, 6, 08402, Granollers España",
+        "tipoCuina": "Catalana"
+    },
+    {
+        "nom": "Mifune Neko Menjar Japonès",
+        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/mifuneneko.jpg",
+        "web": "https://www.mifuneneko.com/",
+        "telefon": "+34 938 70 96 35",
+        "adreca": "Calle Muralla N16, 08401, Granollers España",
+        "tipoCuina": "Japonesa"
+    },
+    {
+        "nom": "Restaurante Wagaya",
+        "srcImg": "https://jcornellasg.github.io/ImatgesPracticaAndroid/Restaurants/wagaya.jpg",
+        "web": "https://www.wagaya.es/",
+        "telefon": "+34 931 58 34 81",
+        "adreca": "Calle Girona,32, 08402, Granollers España",
+        "tipoCuina": "Japonesa"
     }
 ]
